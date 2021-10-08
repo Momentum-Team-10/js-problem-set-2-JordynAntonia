@@ -6,6 +6,13 @@
 // If the potential member is not in the array, return the array unchanged.
 // If the potential member is in the array, remove all instances of it from the array.
 
+let member = ('Cadence' , 'Ordel' , 'Marion")
+let remove member = []
+
+for remove (let member of newMembers) {
+    return ['Cadence', 'Ordel']
+}
+
 // 2. Revisit your "remove" function. Make sure that it does not change the original
 // array but instead returns a new array.
 
